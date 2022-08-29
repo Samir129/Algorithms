@@ -1,4 +1,4 @@
-// Used to find the number of prime numbers given upper value 'R'
+// Used to find the number of prime numbers given upper value 'R' (1, R]
 
 #include<bits/stdc++.h>
 using namespace std;
